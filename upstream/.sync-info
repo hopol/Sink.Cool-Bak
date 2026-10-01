@@ -1,5 +1,5 @@
-commit=6751f16d982a010eb390e101f9a9a974ea2d1ce4
-timestamp=2026-09-21T07:33:12Z
+commit=bafa4e1f7e3ec034929e11e5542c4c3e116d69da
+timestamp=2026-10-01T08:13:02Z
 upstream_url=https://github.com/miantiao-me/sink
 upstream_branch=master
-version=0.3.0
+version=0.3.1
